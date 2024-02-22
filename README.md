@@ -1,2 +1,2 @@
 # loginpagesederhana
-login page sederhana banget (belum responsive hehe masih baru belajar puh)
+login page sederhana banget
